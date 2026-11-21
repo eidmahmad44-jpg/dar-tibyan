@@ -1,0 +1,1 @@
+{ "name": "dar-tibyan", "version": "1.0.0", "private": true, "description": "نظام إدارة دار تبيان لعلوم القرآن", "main": "server.js", "scripts": { "start": "node server.js", "test": "node --test test/scheduler.test.js test/security.test.js" }, "engines": { "node": ">=18" } }

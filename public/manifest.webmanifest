@@ -1,0 +1,22 @@
+{
+  "name": "دار تبيان لعلوم القرآن",
+  "short_name": "دار تبيان",
+  "description": "إدارة حلقات تحفيظ القرآن: مواعيد، متابعة، وتواصل مع الشيخ",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/app",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbfcea",
+  "theme_color": "#19432d",
+  "orientation": "any",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "جدول الحصص", "url": "/app#/schedule" },
+    { "name": "غرف التواصل", "url": "/app#/chat" }
+  ]
+}
